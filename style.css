@@ -4,8 +4,8 @@ body, html{
 	font: 1em Roboto;
 }
 header{
-	width: 100%;
-	height: 100vh;
+	width: 100%;  /*this is width*/
+	height: 95vh;  /* this is changed height */
 	background: url(images/Adams-Peak-2.jpg);
 	background-size: cover;
 	background-position: center center;
